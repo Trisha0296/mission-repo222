@@ -2,6 +2,9 @@
 body{
     font-family: 'Times New Roman', Times, serif;
 }
+.up{
+    border-left: 5px solid purple;
+}
 h1 {
     font-size: 35px;
 }
@@ -15,6 +18,8 @@ h1 {
      border-radius: 15px;
      text-decoration: none;
      font-weight: 700;
+     margin-left: 10%;
+     margin-top: 100%;
 
 }
 .first-img{
@@ -23,12 +28,10 @@ h1 {
 }
 .part-one{
     display: flex;
-    justify-content: space-around;
+
 }
 .first-parts{
-   padding: 10px 40px;
-   width: 600px;
-   height: 600px;
+  padding: 5%;
     
 }
   .second-head{
@@ -71,7 +74,7 @@ h3{
 .my-mission{
     color: rgb(207, 205, 204);
 }
-.developar{
+.developar {
     width: 70%;
     height: 70%;
     margin-left: 30%;
@@ -105,4 +108,26 @@ h3{
 }
 .last-footers{
     background-color: black;
+    text-align: center;
+}
+.footar-last{
+    color:rgb(207, 205, 204);
+}
+.covid-19{
+    width: 70%;
+    height: 70%;
+    margin-left: 30%;
+}
+.info-19{
+    display: flex;
+}
+.corona{
+    padding: 3%;
+}
+.vid{
+    color: sienna;
+}
+.corona-o{
+    border-left: 5px solid rgb(59, 7, 107);
+    height: 3%;
 }
