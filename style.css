@@ -1,0 +1,108 @@
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+    font-size: 35px;
+}
+.spans-tag{
+    color: coral;
+}
+.link-button{
+    color: cornsilk;
+    background-color: rgb(106, 5, 173);
+     padding: 10px 40px;
+     border-radius: 15px;
+     text-decoration: none;
+     font-weight: 700;
+
+}
+.first-img{
+    width: 500px;
+    height: 500px;
+}
+.part-one{
+    display: flex;
+    justify-content: space-around;
+}
+.first-parts{
+   padding: 10px 40px;
+   width: 600px;
+   height: 600px;
+    
+}
+  .second-head{
+     text-align: center;
+     font-size: 35px;
+  } 
+
+.div1{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(59, 7, 107);
+    padding: 30px ;
+  
+}
+.div2{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(182, 43, 175);
+    padding: 30px ;
+}
+.div3{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(235, 111, 214);
+    padding: 30px ;
+}
+.divee{
+    display: flex;
+    justify-content: space-around;
+}
+.illustrator{
+    width: 130px;
+    height: 130px
+}
+h3{
+    font-weight:bold;
+    color: cornsilk;
+   
+}
+.my-mission{
+    color: rgb(207, 205, 204);
+}
+.developar{
+    width: 70%;
+    height: 70%;
+    margin-left: 30%;
+}
+.parts-two{
+    display: flex;
+
+}
+.problam{
+    width: 50%;
+    height: 50%;
+    padding-left: 15%;
+}
+.third-parts{
+    width: 500px;
+    height: 500px;
+    padding: 0%;
+    align-items: center;
+   
+}
+.parts-third{
+    display: flex;
+    padding-left: 15%;
+}
+.last-footar{
+    color: crimson;
+}
+.last-head{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    color: blanchedalmond;
+}
+.last-footers{
+    background-color: black;
+}
